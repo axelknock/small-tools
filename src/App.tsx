@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <div className='p-4 max-w-2xl mx-auto'>
-      <h1 className="text-2xl text-center">Lucian's tools</h1>
+      <h1 className="text-2xl text-center">Small Tools by Claude</h1>
       <FlakeNixGenerator />
       <BidirectionalConverter />
       <JqBuilder />
